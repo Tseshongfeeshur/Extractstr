@@ -4,4 +4,3 @@
 ```bash
 EXTRACTSTR [原始字符串] [开始截取于此字符串] [终止于此字符串]
 ```
-Release传不上去，点[这个](https://github.com/Tseshongfeeshur/Extractstr/raw/main/extractstr.exe)或[那个](extractstr.exe)下载。
